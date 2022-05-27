@@ -5,5 +5,20 @@
 [![]('personal')](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 
+#### GitHub python 🧶
+- [Personal Website](https://github.com/andrekasjas/personal_django)
+- [Administracion](https://github.com/andrekasjas/Proyectoweb_django)
 
+### Github Typescript and js 🎆
+- [Agronomo pwa](https://github.com/andrekasjas/Project_Agronomo_IONIC)
+- [Crud contable](https://github.com/andrekasjas/Contabilidad_ANGULAR)
+- [Api agronomo](https://github.com/andrekasjas/ApiRestAgrono_NODEJS)
+- [Api contabilidad](https://github.com/andrekasjas/ApiContabilidad_NODEJS)
+- [Easy ecommerce](https://github.com/andrekasjas/Ecommerce_ANGULAR)
+- [Easy consumo api](https://github.com/andrekasjas/Consumir_apirest_angular)
+- [Pipes](https://github.com/andrekasjas/Pipes_ANGULAR)
+- [Ecommerce vuejs](https://github.com/andrekasjas/Ecommerce_VUEJS)
+- [Ecommerce reactjs](https://github.com/andrekasjas/Ecommerce_REACT)
 
+### Github java 🎞
+- [Conjuntos](https://github.com/andrekasjas/conjuntos_JAVA)
