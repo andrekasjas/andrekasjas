@@ -2,10 +2,12 @@
 
 
 [![](https://img.shields.io/badge/Gmail-andresmogollob@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
-[![]('personal')](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
+## Personal WebSite
+- [View](https://personaland.herokuapp.com/)
 
-#### GitHub python 🧶
+## Projects Git
+### GitHub python 🧶
 - [Personal Website](https://github.com/andrekasjas/personal_django)
 - [Administracion](https://github.com/andrekasjas/Proyectoweb_django)
 
