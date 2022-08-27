@@ -8,7 +8,7 @@
 
 ## Projects Git
 ### GitHub .Net 🎫
--[Torneo MinTic](https://github.com/andrekasjas/Torneo-AdminCode)
+- [Torneo MinTic](https://github.com/andrekasjas/Torneo-AdminCode)
 ### GitHub python 🧶
 - [Personal Website](https://github.com/andrekasjas/personal_django)
 - [Administracion](https://github.com/andrekasjas/Proyectoweb_django)
